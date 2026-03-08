@@ -37,6 +37,10 @@ O fluxo básico da aplicação é:
 
 Isso permite criar uma experiência semelhante a conversar com um **assistente financeiro inteligente**.
 
+<img width="1053" height="660" alt="AMIF_Assistente_Virtual_Rodando" src="https://github.com/user-attachments/assets/4d26bd91-2e9a-4c07-a798-823e4066ae07" />
+
+
+
 ---
 
 # 🛠️ Tecnologias Utilizadas
